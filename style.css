@@ -40,6 +40,7 @@ p, .about-me, #passcode-form, #passcode-input, button {
 
 .posts .content {
   font-family: arial;
+  font-size: 140%;  
 }
 
 img {
