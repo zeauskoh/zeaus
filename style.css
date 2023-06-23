@@ -38,6 +38,10 @@ p, .about-me, #passcode-form, #passcode-input, button {
   font-family: 'Roboto Slab', serif;
 }
 
+p, ul, ol {
+    font-size: 20 px;
+}
+
 .posts .content {
   font-family: arial;
   font-size: 140%;  
