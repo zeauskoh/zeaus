@@ -43,13 +43,13 @@ p, .about-me, #passcode-form, #passcode-input, button {
   font-size: 20px;  
 }
 
-p .posts, ul. posts, ol. posts {
+p.posts, ul.posts, ol.posts {
   margin-left: 20%;
   margin-right: 20%;
 }
 
 @media screen and (max-width: 600px) {
-.posts {
+p.posts, ul.posts, ol.posts {
     margin: 10%;
 }
 
