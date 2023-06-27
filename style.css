@@ -43,6 +43,16 @@ p, .about-me, #passcode-form, #passcode-input, button {
   font-size: 20px;  
 }
 
+.posts {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+@media screen and (max-width: 600px) {
+.posts {
+    margin: 10%;
+}
+
 img {
   vertical-align: middle;
 }
@@ -177,11 +187,6 @@ img {
 
 .titlepost {
   text-align:center;
-}
-
-.posts {
-  margin-left: 10%;
-  margin-right: 10%;
 }
 
 #passcode-form {
