@@ -43,7 +43,7 @@ p, .about-me, #passcode-form, #passcode-input, button {
   font-size: 20px;  
 }
 
-.posts {
+p .posts, ul. posts, ol. posts {
   margin-left: 20%;
   margin-right: 20%;
 }
