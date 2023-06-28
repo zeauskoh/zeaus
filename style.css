@@ -48,11 +48,6 @@ p.posts, ul.posts, ol.posts {
   margin-right: 20%;
 }
 
-@media screen and (max-width: 600px) {
-p.posts, ul.posts, ol.posts {
-    margin: 10%;
-}
-
 img {
   vertical-align: middle;
 }
