@@ -44,14 +44,14 @@ p, .about-me, #passcode-form, #passcode-input, button {
 }
 
 .content {
-    margin-left: 250px;
-    margin-right: 250px;
+    margin-left: 200px;
+    margin-right: 200px;
 }
 
 @media screen and (max-width: 600px) {
   .content {
-    margin-left: 80px;
-    margin-right: 80px;
+    margin-left: 50px;
+    margin-right: 50px;
   }
 }
 
