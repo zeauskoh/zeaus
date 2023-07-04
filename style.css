@@ -42,6 +42,9 @@ p, .about-me, #passcode-form, #passcode-input, button {
   font-family: arial;
   font-size: 20px;  
 }
+.posts #subtitle {
+  font-family: 'Roboto Slab', serif;
+}
 
 .content {
     margin-left: 150px;
