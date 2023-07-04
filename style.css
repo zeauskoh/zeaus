@@ -47,8 +47,8 @@ p, .about-me, #passcode-form, #passcode-input, button {
 }
 
 .content {
-    margin-left: 150px;
-    margin-right: 150px;
+    margin-left: 300px;
+    margin-right: 300px;
 }
 
 @media screen and (max-width: 600px) {
